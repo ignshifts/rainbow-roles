@@ -2,6 +2,6 @@
     "token": "YOUR_DISCORD_BOT_TOKEN",
     "guildId": "YOUR_SERVER_ID",
     "roleId": "THE_ROLE_YOU_WANT_TO_HAVE_RAINBOW_COLORS",
-    "interval": "IN MILLISECONDS"
+    "interval": 60000
   }
   
