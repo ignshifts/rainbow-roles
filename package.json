@@ -1,0 +1,12 @@
+{
+  "name": "rainbow-roles-main",
+  "version": "1.0.0",
+  "description": "Color changing roles in Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shifts",
+  "license": "ISC"
+}
