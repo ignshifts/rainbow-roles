@@ -7,7 +7,7 @@
 ## Installation
 ```js
   * NodeJS 16+
-  * run npm install
+  * npm install
 ```
 
 ##  Usage:
